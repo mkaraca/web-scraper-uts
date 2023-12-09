@@ -1,0 +1,3 @@
+selenium-wire
+pandas
+selenium
