@@ -13,4 +13,7 @@ Bu Python projesinde https://utsuygulama.saglik.gov.tr/UTS/ sisteminde kayıtlı
 
 ## Not:
 - Tüm HTML elemanlarının görünür olmasını sağlamak ve hata almamak için selenium browser'ı açıldıktan sonra `Ctrl + -` tuşlarını kullanarak %80 zoom out yapmak gerekiyor.
-- Webdrive'da güvenlik uyarısı almamak için Chrome'a `ca.crt` sertifikasının eklenmesi gerekebilir. `Chrome > Settings > Manage certificates > Import`
+- Webdrive'da güvenlik uyarısı almamak için Chrome'a `ca.crt` sertifikasının eklenmesi gerekebilir. `Chrome > Settings > Manage certificates > Import`  
+
+## Screenshot:
+![Proje Ekranı](https://raw.githubusercontent.com/mkaraca/web-scraper-uts/main/doc/screenshot.png)
